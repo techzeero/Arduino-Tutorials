@@ -1,8 +1,8 @@
 # Arduino-Tutorials
 
-1. Getting Started With Arduino : https://techzeero.com/arduino-tutorials/getting-started-with-arduino/
+**1. Getting Started With Arduino :** https://techzeero.com/arduino-tutorials/getting-started-with-arduino/
 
-2. Controlling Multiple LEDs With Arduino Uno: https://techzeero.com/arduino-tutorials/controlling-multiple-leds-with-arduino/
+**2. Controlling Multiple LEDs With Arduino Uno:** https://techzeero.com/arduino-tutorials/controlling-multiple-leds-with-arduino/
 
 3. Arduino String Functionality: https://techzeero.com/arduino-tutorials/arduino-string-functionality/
 
